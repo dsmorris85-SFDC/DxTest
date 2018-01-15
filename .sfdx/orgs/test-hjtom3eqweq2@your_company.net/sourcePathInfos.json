@@ -1,0 +1,303 @@
+[
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516032435534,
+            "changeTime": 1516032435534,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516032435532,
+            "changeTime": 1516032435532,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516032435533,
+            "changeTime": 1516032435533,
+            "contentHash": "0803afd433bedf4fb3c621888196f3a590a9c016",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516032435533,
+            "changeTime": 1516032435533,
+            "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/classes/DemoController.cls",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/classes/DemoController.cls",
+            "isDirectory": false,
+            "size": 928,
+            "modifiedTime": 1516032435532,
+            "changeTime": 1516032435532,
+            "contentHash": "9f0477e01923599c93bc2b63d1e7c24e4c5cdfde",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/classes/DemoController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/classes/DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 173,
+            "modifiedTime": 1516032435533,
+            "changeTime": 1516032435533,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516032435534,
+            "changeTime": 1516032435534,
+            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/pages/DemoPage.page",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/pages/DemoPage.page",
+            "isDirectory": false,
+            "size": 1543,
+            "modifiedTime": 1516032435533,
+            "changeTime": 1516032435533,
+            "contentHash": "d56cc77570ddc24f356d35ab346feeace058e68d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/pages/DemoPage.page-meta.xml",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/main/default/pages/DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1516032435534,
+            "changeTime": 1516032435534,
+            "contentHash": "bb64cc431860f5c9c14f5fb41d5e59eeaf9a7d52",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516032435534,
+            "changeTime": 1516032435534,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516032435534,
+            "changeTime": 1516032435534,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default/classes",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516032435535,
+            "changeTime": 1516032435535,
+            "contentHash": "5144f1861400212c6d4a274d925b0ff04bede7bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default/classes/DemoControllerTests.cls",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default/classes/DemoControllerTests.cls",
+            "isDirectory": false,
+            "size": 634,
+            "modifiedTime": 1516032435534,
+            "changeTime": 1516032435534,
+            "contentHash": "5aebdcde1dad56bd4f7fa41fbbb1a0187cafd6fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516032435535,
+            "changeTime": 1516032435535,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1516032734530,
+            "changeTime": 1516032734530,
+            "contentHash": "18007e7147094861ebf02db49fe5294c0e851881"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default/classes/newApexClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default/classes/newApexClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516032741259,
+            "changeTime": 1516032741259,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default/classes/newApexClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default/classes/newApexClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 28,
+            "modifiedTime": 1516032741260,
+            "changeTime": 1516032741260,
+            "contentHash": "7484f70580b6ec3eba572974e85a2e1762dfa09a"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516032741260,
+            "changeTime": 1516032741260,
+            "contentHash": "240928ff43bd7cd3d8ef0c3ab42f2f0f1240ecce"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516032741258,
+            "changeTime": 1516032741258,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516032741257,
+            "changeTime": 1516032741257,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/amey/unpackaged",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516032741257,
+            "changeTime": 1516032741257,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451"
+        }
+    ]
+]
