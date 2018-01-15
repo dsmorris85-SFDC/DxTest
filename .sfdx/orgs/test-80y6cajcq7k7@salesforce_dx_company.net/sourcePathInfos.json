@@ -1,0 +1,485 @@
+[
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516029891421,
+            "changeTime": 1516029891421,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516029891417,
+            "changeTime": 1516029891417,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516029891419,
+            "changeTime": 1516029891419,
+            "contentHash": "0803afd433bedf4fb3c621888196f3a590a9c016",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516029891418,
+            "changeTime": 1516029891418,
+            "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/classes/DemoController.cls",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/classes/DemoController.cls",
+            "isDirectory": false,
+            "size": 928,
+            "modifiedTime": 1516029891418,
+            "changeTime": 1516029891418,
+            "contentHash": "9f0477e01923599c93bc2b63d1e7c24e4c5cdfde",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/classes/DemoController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/classes/DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 173,
+            "modifiedTime": 1516029891418,
+            "changeTime": 1516029891418,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516029891420,
+            "changeTime": 1516029891420,
+            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/pages/DemoPage.page",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/pages/DemoPage.page",
+            "isDirectory": false,
+            "size": 1543,
+            "modifiedTime": 1516029891420,
+            "changeTime": 1516029891420,
+            "contentHash": "d56cc77570ddc24f356d35ab346feeace058e68d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/pages/DemoPage.page-meta.xml",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/main/default/pages/DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 274,
+            "modifiedTime": 1516029891420,
+            "changeTime": 1516029891420,
+            "contentHash": "bb64cc431860f5c9c14f5fb41d5e59eeaf9a7d52",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516029891422,
+            "changeTime": 1516029891422,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516029891422,
+            "changeTime": 1516029891422,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default/classes",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516029891423,
+            "changeTime": 1516029891423,
+            "contentHash": "5144f1861400212c6d4a274d925b0ff04bede7bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default/classes/DemoControllerTests.cls",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default/classes/DemoControllerTests.cls",
+            "isDirectory": false,
+            "size": 634,
+            "modifiedTime": 1516029891423,
+            "changeTime": 1516029891423,
+            "contentHash": "5aebdcde1dad56bd4f7fa41fbbb1a0187cafd6fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+        {
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/force-app/test/default/classes/DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516029891424,
+            "changeTime": 1516029891424,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1516031377808,
+            "changeTime": 1516031377808,
+            "contentHash": "18007e7147094861ebf02db49fe5294c0e851881"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects/Account/fields/DaveTest__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects/Account/fields/DaveTest__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1516031486736,
+            "changeTime": 1516031486736,
+            "contentHash": "5250af11831a47fd5eff4662a9cfc0c517a539a7"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1516031486753,
+            "changeTime": 1516031486753,
+            "contentHash": "4e0c39d16de5912dfc058c297d78cc0d8006f794"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1516031486766,
+            "changeTime": 1516031486766,
+            "contentHash": "511ae38c5086a15e8f065a1df777008cde25f7ee"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1516031486770,
+            "changeTime": 1516031486770,
+            "contentHash": "9480585a29f15a4b7589c89b195e6f7ff3de5644"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1516031486774,
+            "changeTime": 1516031486774,
+            "contentHash": "365dcd90837275d0842d63afd747141ba3de5e9b"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/classes/DaveTestClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/classes/DaveTestClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516031486778,
+            "changeTime": 1516031486778,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/classes/DaveTestClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/classes/DaveTestClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 30,
+            "modifiedTime": 1516031486779,
+            "changeTime": 1516031486779,
+            "contentHash": "fde75c13c613a236c04757e9c094d859c9cef769"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17547,
+            "modifiedTime": 1516031486795,
+            "changeTime": 1516031486795,
+            "contentHash": "4d588d1c31730a5b91c9b9876e8c66a87de19b98"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17887,
+            "modifiedTime": 1516031486805,
+            "changeTime": 1516031486805,
+            "contentHash": "1871208a3ffe25136d87a583266ba7139e7b70b0"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 31517,
+            "modifiedTime": 1516031486822,
+            "changeTime": 1516031486822,
+            "contentHash": "7d699098ccadb229c73b07d23d7f1397a7c25004"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17551,
+            "modifiedTime": 1516031486835,
+            "changeTime": 1516031486835,
+            "contentHash": "f1933b251eea0e04fa6ca37e5c0b2a03c156e9d0"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516031486736,
+            "changeTime": 1516031486736,
+            "contentHash": "7c21d0a95fb15cad883217fe10df0946272036a6"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516031486735,
+            "changeTime": 1516031486735,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516031486735,
+            "changeTime": 1516031486735,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1516031486793,
+            "changeTime": 1516031486793,
+            "contentHash": "2ed1966858a69d044a020a30defd95645b188ea7"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516031486735,
+            "changeTime": 1516031486735,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516031486735,
+            "changeTime": 1516031486735,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1516031486774,
+            "changeTime": 1516031486774,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516031486779,
+            "changeTime": 1516031486779,
+            "contentHash": "17bbd34bfd4258d179738abcb9b0e28775a77fd9"
+        }
+    ],
+    [
+        "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/david.morris/DevWorkspace/SfDxAx/simple-app/unpackaged/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1516031486835,
+            "changeTime": 1516031486835,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
